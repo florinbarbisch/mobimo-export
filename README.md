@@ -32,3 +32,9 @@ If you want to use an already opened Chrome session:
    ```powershell
    python export.py --cdp 9222
    ```
+
+### Compress PDF so it is lightweight and email-friendly
+If you want to compress the generated PDF to make it smaller and more suitable for email, you can use the following command:
+```powershell
+python.exe compress_pdf.py
+```
