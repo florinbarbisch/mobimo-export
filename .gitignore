@@ -1,0 +1,5 @@
+.venv/
+chrome_profile/
+temp_export_pdfs/
+*.pdf
+__pycache__/
